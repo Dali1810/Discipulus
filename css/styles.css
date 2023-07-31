@@ -1,2 +1,4 @@
 #fondo{
     background-color: blanchedalmond;}
+#fondonav{background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(153,0,154,1) 79%, rgba(189,70,207,0.5130427170868348) 100%);}
